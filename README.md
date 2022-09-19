@@ -1,1 +1,2 @@
 # kodluyoruzilkrepo
+deneme 123
